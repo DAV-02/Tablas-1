@@ -1,0 +1,14 @@
+table.rojo {
+    border: red 1px solid;
+}
+caption {
+    font-weight: bold;
+}
+td.azul {
+    border: blue 2px solid;
+}
+table.verde{
+    border: lightgreen 2px solid;
+    width: 50%;
+    text-align: center;
+}
